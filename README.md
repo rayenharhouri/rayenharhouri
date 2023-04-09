@@ -16,6 +16,10 @@
     <a href="https://www.linkedin.com/in/rayenharhouri/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="RiNo">
     </a>
+    </a>
+        <a href="[https://dbreskovit.itch.io/](https://mail.google.com/mail/u/0/#inbox?compose=new&to=[rayen.harhouri@esprit.tn])" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" alt="RiNo">
+    </a>
     <a href="https://www.behance.net/rayenharhouri" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Behance-1a1b27?style=for-the-badge&logo=Behance&logoColor=9644CD" alt="RiNo">
     </a>
@@ -24,11 +28,7 @@
         <img src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" alt="RiNo">
     </a>
     </a>
-        <a href="[https://dbreskovit.itch.io/](https://mail.google.com/mail/u/0/#inbox?compose=new&to=[rayen.harhouri@esprit.tn])" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" alt="RiNo">
-    </a>
-    </a>
-        <a href="https://stackoverflow.com/users/20804353/diego-breskovit" target="_blank" style="text-decoration: none;">
+        <a href="https://www.facebook.com/RiNo6969/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/facebook-1a1b27?style=for-the-badge&logo=facebook&logoColor=9644CD" alt="RiNo">
     </a>
   </p>
