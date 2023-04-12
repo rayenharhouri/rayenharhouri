@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/dbreskovit/dbreskovit/main/Assets/earth.gif" width="25px" height="25px"/> 
 
-<div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayenharhouri-1&label=POFILE%20VIEWS&color=6A329F&style=for-the-badge" alt="RiNo-1" /> </p>
+<div >
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rayenharhouri-1&label=POFILE%20VIEWS&color=6A329F&style=for-the-badge" alt="RiNo-1" /> </p>
 
 <img src="https://raw.githubusercontent.com/dbreskovit/dbreskovit/main/Assets/banner.gif" cite="https://galoupop.tumblr.com/image/145423398021">
 
