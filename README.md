@@ -60,7 +60,7 @@
 
 <img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayenharhouri&langs_count=8&theme=radical&hide_border=true">
 <div align="right">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=rayenharhouri&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=radical&hide_border=true">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=rayenharhouri&show_icons=true&custom_title=RiNo's%20Github%20Stats&theme=radical&hide_border=true">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rayenharhouri&theme=radical&hide_border=true">
 </div>
 
