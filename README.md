@@ -53,21 +53,3 @@
   </a>
 </p>
 
-## GitHub Stats <img src="https://raw.githubusercontent.com/dbreskovit/dbreskovit/main/Assets/PC.gif" width="100px" height="100px" align="right">
-
-
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=rayenharhouri&theme=rogue&hide_border=true&line=fe428e&bg_color=141321&title_color=fe428e">
-
-<img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayenharhouri&langs_count=8&theme=radical&hide_border=true">
-<div align="right">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=rayenharhouri&show_icons=true&custom_title=RiNo's%20Github%20Stats&theme=radical&hide_border=true">
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rayenharhouri&theme=radical&hide_border=true">
-</div>
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayenharhouri&show_icons=true&locale=en&layout=compact" alt="rayenharhouri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayenharhouri&show_icons=true&locale=en" alt="rayenharhouri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayenharhouri&" alt="rayenharhouri" /></p>
--->
